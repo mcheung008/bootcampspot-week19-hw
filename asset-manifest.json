@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bootcampspot-week19-hw/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/bootcampspot-week19-hw/static/js/main.8e48caf8.chunk.js",
+    "main.js.map": "/bootcampspot-week19-hw/static/js/main.8e48caf8.chunk.js.map",
+    "runtime-main.js": "/bootcampspot-week19-hw/static/js/runtime-main.f78c43d7.js",
+    "runtime-main.js.map": "/bootcampspot-week19-hw/static/js/runtime-main.f78c43d7.js.map",
+    "static/js/2.d0978873.chunk.js": "/bootcampspot-week19-hw/static/js/2.d0978873.chunk.js",
+    "static/js/2.d0978873.chunk.js.map": "/bootcampspot-week19-hw/static/js/2.d0978873.chunk.js.map",
+    "static/js/3.dc9411c2.chunk.js": "/bootcampspot-week19-hw/static/js/3.dc9411c2.chunk.js",
+    "static/js/3.dc9411c2.chunk.js.map": "/bootcampspot-week19-hw/static/js/3.dc9411c2.chunk.js.map",
+    "index.html": "/bootcampspot-week19-hw/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/bootcampspot-week19-hw/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d0978873.chunk.js.LICENSE.txt": "/bootcampspot-week19-hw/static/js/2.d0978873.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f78c43d7.js",
+    "static/js/2.d0978873.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.8e48caf8.chunk.js"
+  ]
+}
